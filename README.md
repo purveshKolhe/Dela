@@ -1,7 +1,7 @@
 # Dela P2P File Sharing
 
 <p align="center">
-  <img src="client/assets/images/logo.png" alt="Dela Logo" width="120">
+  <img src="image.png" alt="Dela Logo" width="120">
 </p>
 
 <h3 align="center">A secure and efficient peer-to-peer file sharing application built with Node.js for relay services and Python Flask for QR code generation.</h3>
