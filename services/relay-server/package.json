@@ -1,0 +1,15 @@
+{
+  "name": "dela-p2p-sharing-relay",
+  "version": "1.0.0",
+  "description": "Dela P2P File Sharing with WebSocket Relay",
+  "main": "relay_server.js",
+  "scripts": {
+    "start": "node relay_server.js",
+    "dev": "node relay_server.js"
+  },
+  "dependencies": {
+    "ws": "^8.14.2",
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  }
+}

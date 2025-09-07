@@ -1,0 +1,1 @@
+web: python services/qr-service/qr_server.py
